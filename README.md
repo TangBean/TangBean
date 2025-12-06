@@ -1,5 +1,3 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TangBean&theme=default&show_icons=true&cache_seconds=21600)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **TangBean/TangBean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
